@@ -1,0 +1,4 @@
+# ignore biicode auxiliary folders in project
+
+bii
+bin
